@@ -5,7 +5,7 @@ load_dotenv()
 
 API_ID = 18983092
 API_HASH = "a6005a70e88369b4fb08b8350ebbdd35"
-BOT_TOKEN = "5706971985:AAHG48-fX0ORjBhmOqQkZpl7aSZfB_PqaC4"
+BOT_TOKEN = "5346281142:AAGSjaF3tiqWR4dv5pOXibkkgJVWmZJa-Tk"
 
 MONGO_DB_URI =  "mongodb+srv://TROJ3N:Nethika123@cluster0.uppg6.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 INDEX_ID = -1001672379327
